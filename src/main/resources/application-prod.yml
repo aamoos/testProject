@@ -1,6 +1,6 @@
 spring: #띄어쓰기 없음
   datasource: #띄어쓰기 2칸
-    url: jdbc:mariadb://localhost:3306/test
+    url: jdbc:mariadb://13.124.196.71:3306/test
     username: root
     password: 1234
     driver-class-name: org.mariadb.jdbc.Driver
